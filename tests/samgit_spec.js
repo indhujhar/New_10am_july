@@ -1,4 +1,4 @@
-console.log("Indhu");
+// console.log("Indhu");
 
 // git commands
 
@@ -15,3 +15,6 @@ console.log("Indhu");
 //git add . ->staging area
 
 //git commit -m "message"
+//git remote add origin (url)
+//git branch -M main
+//git push -u origin main
